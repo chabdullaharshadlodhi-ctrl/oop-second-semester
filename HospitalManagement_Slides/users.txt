@@ -1,0 +1,2 @@
+admin,123,Admin,0
+ramzan,123,Patient,1

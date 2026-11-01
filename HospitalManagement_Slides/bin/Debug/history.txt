@@ -1,0 +1,5 @@
+1,Ramzan,18,Flu
+2,Husnain,19,Cold
+3,Muneeb,20,Fever
+4,Junaid,21,Headache
+5,Sufyan,22,Stomachache

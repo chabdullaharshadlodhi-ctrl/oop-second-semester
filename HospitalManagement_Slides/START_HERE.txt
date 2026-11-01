@@ -1,0 +1,31 @@
+HOSPITAL MANAGEMENT - VERSION BASED ON YOUR TEACHER'S SLIDES
+
+1. Extract the ZIP completely.
+2. Open the HospitalManagement_Slides folder.
+3. Double-click HospitalManagement.sln.
+4. In Visual Studio, press Ctrl + F5.
+
+Project type: Console App (.NET Framework).
+Target framework: .NET Framework 4.8.
+No NuGet packages or database setup are required.
+If Visual Studio asks for the .NET Framework 4.8 targeting/developer pack,
+install that component using Visual Studio Installer.
+
+DEMO ACCOUNTS
+Admin:   username admin    password 123
+Patient: username ramzan   password 123   (patient ID 1)
+
+SIGN UP
+Admin must first add the patient's record.
+Choose Sign Up, enter a new username/password and that patient's ID.
+Example: ID 2 exists and has no account initially.
+
+READING ORDER
+1. Model/Patient.cs
+2. Repositories/PatientRepository.cs
+3. Services/PatientService.cs
+4. UI/PatientUI.cs
+5. Model/MUser.cs, Repositories/UserRepository.cs, Services/UserService.cs
+6. UI/UserUI.cs and Program.cs
+
+GUIDE.md explains the design, slide references and changes from your C++ code.
